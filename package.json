@@ -18,8 +18,12 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "angularfire2": "^5.4.2",
     "bootstrap": "^5.2.3",
-    "mysql": "^2.18.1",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "firebase": "^9.15.0",
+    "mysql": "2.18.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
@@ -36,5 +40,17 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
     "typescript": "~4.7.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supanida-p41/Minishop-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supanida-p41/Minishop-project/issues"
+  },
+  "homepage": "https://github.com/supanida-p41/Minishop-project#readme"
 }
