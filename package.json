@@ -19,6 +19,7 @@
     "@angular/material": "^15.0.3",
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
+    "@angular/pwa": "^15.0.4",
     "@angular/router": "^14.2.0",
     "angularfire2": "^5.4.2",
     "bootstrap": "^5.2.3",
